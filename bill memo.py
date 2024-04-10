@@ -2,7 +2,7 @@ class Bill:
     def __init__(self, id, name, date, address):
         self.shop = "MOBILO - Mobile City"
         self.tagline = "Deal in New & Used Mobile Phone & Accessories."
-        self.cell = 923001234867
+        self.cell = 923001234857
         self.location = "Shop # 15, Ghalib Market, Lahore"
         self.type = "Cash Memo"
 
