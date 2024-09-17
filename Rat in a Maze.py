@@ -94,7 +94,7 @@ maze2 = [
 
 result1, path1 = solve_maze(maze1)
 print(result1)
-if result1 == "Maze solved":
+if result1 == "Maze Solved":
     print("Path:", path1)
 
 result2, path2 = solve_maze(maze2)
