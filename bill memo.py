@@ -3,7 +3,7 @@ class Bill:
         self.shop = "MOBILO - Mobile City"
         self.tagline = "We deal in New & Used Mobile Phones."
         self.cell = 92305888857
-        self.location = "Shop # 31, Ghalib Market, Lahore"
+        self.location = "Shop # 51, Ghalib Market, Lahore"
         self.type = "Cash Memo"
 
         self.id = id
